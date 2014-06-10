@@ -8,7 +8,7 @@ Get a list of all prime numbers below the number you input in  the command line.
 
 git clone [git url]
 
-cd Eratosthenes
+cd PrimeNumbers
 
 javac Eratosthenes.java
 
